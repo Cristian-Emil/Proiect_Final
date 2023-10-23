@@ -1,4 +1,4 @@
-EN- Proiect_Final (Final_Project)
+EN- Proiect_Final (Final_Project)./
 This project wants to be an exercise and a model through which to present the interaction between two email addresses in which the data from the first email is used to access the next email where certain of its files are verified.
 In principle, this can be done in cascade, and if the system is thought out correctly, access can be made from the first email to email number "n"./
 Based on Java, Selenium, TestNG and Maven, the program shows how to access and how to check the content of an email address using the SOFTASSERT command.
@@ -8,7 +8,7 @@ System.setProperty("webdriver.chrome.driver", "C:/Users/crist/IdeaProjects/- dri
 where at the address "C:/Users/crist/IdeaProjects/- driver_Selenium-Maven/ChromeDriver/chromedriver.exe" the new path to the chromedriver from the computer on which the program is run will be specified.
 In pom.xml, will be specified modules for Selenium, TestNG and Maven.
 
-RO - Proiect_Final
+RO - Proiect_Final./
 Acest proiect doreste sa fie un exercitiu si un model prin care sa se prezinte interactiunea dintre doua adrese de email in care cu datele din primul email este accesat urmatorul email in care sunt veridfciate anumite fisiere ale acestuia.
 In principiu acest lucru se poate face in cascada si daca sistemul este gandit corect se poate face accesare din primul email pana la email-ul numarul "n"./
 Avand la baza Java, Selenium, TestNG si Maven programul prezinta modul in care se poate accesa si apoi verifica continutul unei adrese de email folosind comanda SOFTASSERT.
