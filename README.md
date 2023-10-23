@@ -11,6 +11,7 @@ In pom.xml, will be specified modules for Selenium, TestNG and Maven.
 ATTENTION: Inside the program have been inserted several lines of Thread.sleep. These have the role of reducing the execution speed of the program if it is used in the didactic purpose.
 In the existing repository, these lines have been commented. In order to have an effect, they must be uncommented, those signs "//" in front of the command line must be deleted.
 
+  
 RO - Proiect_Final.  
 
 Acest proiect doreste sa fie un exercitiu si un model prin care sa se prezinte interactiunea dintre doua adrese de email in care cu datele din primul email este accesat urmatorul email in care sunt veridfciate anumite fisiere ale acestuia.  
