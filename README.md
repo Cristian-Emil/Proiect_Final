@@ -9,6 +9,7 @@ System.setProperty("webdriver.chrome.driver", "C:/Users/crist/IdeaProjects/- dri
 where at the address "C:/Users/crist/IdeaProjects/- driver_Selenium-Maven/ChromeDriver/chromedriver.exe" the new path to the chromedriver from the computer on which the program is run will be specified.
 In pom.xml, will be specified modules for Selenium, TestNG and Maven.
 
+
 RO - Proiect_Final.  
 
 Acest proiect doreste sa fie un exercitiu si un model prin care sa se prezinte interactiunea dintre doua adrese de email in care cu datele din primul email este accesat urmatorul email in care sunt veridfciate anumite fisiere ale acestuia.
