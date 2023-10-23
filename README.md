@@ -23,4 +23,4 @@ unde la adresa "C:/Users/crist/IdeaProjects/- driver_Selenium-Maven/ChromeDriver
 In pom.xml se vor preciza modurile de apelare ale Selenium, TestNG si Maven.
   
 ATENTIE: In cadrul programului au fost inserate mai multe linii de Thread.sleep. Acestea au rolul de a reduce viteza de executie a programului in cazul in care acesta este folosit in domeniu didactic.
-In repository-ul existent aceste linii au fost comentate. Pentru a avea efect acestea trebuie decomentate , adica trebuie sterse acele semne  "//" din fata linie de comanda. 
+In repository-ul existent aceste linii au fost comentate. Pentru a avea efect acestea trebuie decomentate , adica trebuie sterse acele semne  "//" din fata liniei de comanda. 
