@@ -22,7 +22,6 @@ public class DriverManager {
 //  setam un wait global (implicit) de 5 secunde
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         return driver;
+
     }
-
-
 }

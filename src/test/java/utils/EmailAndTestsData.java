@@ -24,6 +24,10 @@ ea este inlocuita cu linia 16
 
     public final static String APP_URL2 ="https://outlook.live.com/";
 
+//---------- Acces email nr.3
+
+//    public final static String APP_URL3 ="https://outlook.live.com/";
+
 }
 
 
