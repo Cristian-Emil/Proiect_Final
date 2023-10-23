@@ -30,7 +30,6 @@ public class LoginAndCheckData extends BaseTest{
  - se deschide un nou broser si se acceseaza noul cont unde se verifica numarul de email-uri necitite din fiecare fisier
  - se inchide si acest al doilea email si se iese din pagina de web.
 
-
  Pentru a rula programul folosim "@Test" care este o adnotare a fremawork-ului Junit si TestNG, cu el marcam ca aceasta
  este o metoda de testarer utilizata cand se foloseste Selenium WebDriver sau Selenium WebElement. Acestea sunt folosite
  pentru a automatiza testele pe aplicatia web. Adnotarea @Test ajuta la organizarea si rularea testelor in mod automat.
