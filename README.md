@@ -16,5 +16,5 @@ In principiu acest lucru se poate face in cascada si daca sistemul este gandit c
 Avand la baza Java, Selenium, TestNG si Maven programul prezinta modul in care se poate accesa si apoi verifica continutul unei adrese de email folosind comanda SOFTASSERT. Pentru a putea rula acest porgram trebuie sa aveti instalat pe computerul dvs. Java, IntelliJ IDEA, Selenium , TestNG, Maven si driverele de Chrome (chromedriver in acest proiect).   
 Locatia unde sunt instalate toate acestea propgrame si utilitati se va preciza in pom.xmal si in clasa DriverManager, linia:  
 System.setProperty("webdriver.chrome.driver", "C:/Users/crist/IdeaProjects/- driver_Selenium-Maven/ChromeDriver/chromedriver.exe");
-unde la adresa "C:/Users/crist/IdeaProjects/- driver_Selenium-Maven/ChromeDriver/chromedriver.exe" se va preciza noua calea spre chromedriver-ul din computerul pe care este rulat programul.
+unde la adresa "C:/Users/crist/IdeaProjects/- driver_Selenium-Maven/ChromeDriver/chromedriver.exe" se va preciza noua calea spre chromedriver-ul din computerul pe care este rulat programul.  
 In pom.xml se vor preciza modurile de apelare ale Selenium, TestNG si Maven.
