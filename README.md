@@ -11,6 +11,10 @@ In pom.xml, will be specified modules for Selenium, TestNG and Maven.
 ATTENTION: Inside the program have been inserted several lines of Thread.sleep. These have the role of reducing the execution speed of the program if it is used in the didactic purpose.
 In the existing repository, these lines have been commented. In order to have an effect, they must be uncommented, those signs "//" in front of the command line must be deleted.
 
+Only for study
+
+PS: In general, to search for a specific address, I preferred to use XPATH or CssSelector instead of an ID The Xpath allows us to walk up and down its branches while the ID is unique and must be correctly identified
+
   
 RO - Proiect_Final.  
 
@@ -24,3 +28,9 @@ In pom.xml se vor preciza modurile de apelare ale Selenium, TestNG si Maven.
   
 ATENTIE: In cadrul programului au fost inserate mai multe linii de Thread.sleep. Acestea au rolul de a reduce viteza de executie a programului in cazul in care acesta este folosit in domeniu didactic.
 In repository-ul existent aceste linii au fost comentate. Pentru a avea efect acestea trebuie decomentate , adica trebuie sterse acele semne  "//" din fata liniei de comanda. 
+
+Doar pentru studiu 
+
+PS: In general pentru cautarea unei adrese anume am preferat sa folosesc XPATH sau CssSelector in locul unui ID Xpath-ul ne permite sa se plimbam in sus si in jos pe ramurile acestuia in timp ce ID-ul este unic si trebuie corect identificat
+
+PS: In general, to search for a specific address, I preferred to use XPATH or CssSelector instead of an ID The Xpath allows us to walk up and down its branches while the ID is unique and must be correctly identified
