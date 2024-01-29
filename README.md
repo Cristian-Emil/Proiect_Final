@@ -14,7 +14,7 @@ In the existing repository, these lines have been commented. In order to have an
   
 RO - Proiect_Final.  
 
-Acest proiect doreste sa fie un exercitiu si un model prin care este prezintata interactiunea dintre doua adrese de email in care cu datele din primul email este accesat urmatorul email si in sunt verificate anumite fisiere ale acestuia.
+Acest proiect doreste sa fie un exercitiu si un model prin care este prezintata interactiunea dintre doua adrese de email in care cu datele din primul email este accesat urmatorul email si in acesta sunt verificate anumite fisiere si proprietati ale sale (continut , forma, aranajment).
 In principiu acest lucru se poate face in cascada si daca sistemul este gandit corect se poate realiza accesare din primul email pana la email-ul numarul "n" ("n" mai mare sau egal cu 2).  
 Avand la baza Java, Selenium, TestNG si Maven programul prezinta modul in care se poate accesa si apoi verifica continutul unei adrese de email folosind comanda SOFTASSERT. Pentru a putea rula acest porgram trebuie sa aveti instalat pe computerul dvs. Java, IntelliJ IDEA, Selenium , TestNG, Maven si driverele de Chrome (chromedriver in acest proiect).   
 Locatia unde sunt instalate toate acestea propgrame si utilitati se va preciza in pom.xmal si in clasa DriverManager, in linia:  
