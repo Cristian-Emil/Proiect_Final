@@ -13,7 +13,7 @@ In the existing repository, these lines have been commented. In order to have an
 
 Only for study
 
-PS: In general, to search for a specific address, I preferred to use XPATH or CssSelector instead of an ID The Xpath allows us to walk up and down its branches while the ID is unique and must be correctly identified
+PS: In general, to search for a specific address, I preferred to use XPATH or CssSelector instead of an ID. The Xpath allows us to walk up and down its branches while the ID is unique and must be correctly identified to can run correct the programs.
 
   
 RO - Proiect_Final.  
@@ -31,6 +31,5 @@ In repository-ul existent aceste linii au fost comentate. Pentru a avea efect ac
 
 Doar pentru studiu 
 
-PS: In general pentru cautarea unei adrese anume am preferat sa folosesc XPATH sau CssSelector in locul unui ID Xpath-ul ne permite sa se plimbam in sus si in jos pe ramurile acestuia in timp ce ID-ul este unic si trebuie corect identificat
+PS: In general pentru cautarea unei adrese anume am preferat sa folosesc XPATH sau CssSelector in locul unui ID. Varinat  Xpath-ul ne permite sa se plimbam in sus si in jos pe ramurile acestuia in timp ce ID-ul este unic si trebuie corect identificat pentru a rula corect programul.
 
-PS: In general, to search for a specific address, I preferred to use XPATH or CssSelector instead of an ID The Xpath allows us to walk up and down its branches while the ID is unique and must be correctly identified
